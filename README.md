@@ -3,7 +3,7 @@
 React JS Todo List
 
 # Link
-https://yoodonghyuk.github.io/todolist/#/
+https://donghyuk-yoo.github.io/todolist/
 
 ### Feature
 
